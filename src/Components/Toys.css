@@ -1,11 +1,4 @@
-.box {
-    border: 1px solid gray;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
-    height: 2em;
-}
+
 
 .bin {
     display:flex;

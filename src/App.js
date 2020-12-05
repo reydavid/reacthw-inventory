@@ -11,6 +11,7 @@ function App() {
       <Stock />
       <Parts />
       <Toys />
+      <h5>* reset will return to initial values count: [0,1,2,3] increment:[1,2,3,4]</h5>
     </div>
   );
 }
