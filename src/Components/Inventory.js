@@ -52,6 +52,11 @@
             })
             console.log("increset");
         }
+
+        componentDidMount(){}
+
+        componentDidUpdate(){}
+        
             render(){
                 return(
                     <div className="box">
